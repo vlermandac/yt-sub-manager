@@ -1,4 +1,4 @@
-module github.com/charmbracelet/bubbletea-app-template
+module github.com/vlermandac/yt-sub-manager
 
 go 1.19
 
